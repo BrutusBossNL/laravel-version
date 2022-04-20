@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/version",
+    "name": "burtusbossnl/laravel-version",
     "description": "Take control over your Laravel app version",
     "keywords": [
         "laravel",
@@ -12,6 +12,11 @@
             "name": "Antonio Carlos Ribeiro",
             "email": "acr@antoniocarlosribeiro.com",
             "role": "Creator & Designer"
+        },
+        {
+            "name": "Bert van der Stelt",
+            "email": "bert@burtusboss.nl",
+            "role": "Coder"
         }
     ],
     "require": {
